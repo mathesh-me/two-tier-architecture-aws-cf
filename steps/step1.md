@@ -1,4 +1,4 @@
-![Screenshot 2024-04-04 180217](https://github.com/mathesh-me/two-tier-architecture-aws-cf/assets/144098846/3c411871-2654-4951-9274-0fef34e6fb82)## Creating a IAM role for CloudFormation to Deploy Resources
+## Creating a IAM role for CloudFormation to Deploy Resources
 
 In this step, we are going to create an IAM role for CloudFormation to deploy resources. This role will have the necessary permissions to deploy resources in our AWS account.<br>
 
