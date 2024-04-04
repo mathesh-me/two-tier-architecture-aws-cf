@@ -7,6 +7,7 @@ Follow the below steps to create a CloudFormation Stack to deploy resources in y
 ![Screenshot 2024-04-04 181006](https://github.com/mathesh-me/two-tier-architecture-aws-cf/assets/144098846/69583ca0-8513-46c6-b09f-e5a04b905e6f)
 
 **Don't forget to review the Parameters Once and Change it as per your requirements**
+- Consider reviewing these parameters once: AMI-ID, DB Username, DB Password, instance type, key pair, region, availability zones, VPC CIDR, and subnet CIDR. 
 
 ![Screenshot 2024-04-04 181031](https://github.com/mathesh-me/two-tier-architecture-aws-cf/assets/144098846/503215a3-cadd-4615-9a19-a9c5880c1448)
 
