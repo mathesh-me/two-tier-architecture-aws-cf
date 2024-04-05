@@ -8,7 +8,7 @@ The architecture will consists of a web server and a database server. The web se
 
 ## Architecture Diagram 📊
 
-![Two-Tier-Architecture-aws-cfn](https://github.com/mathesh-me/two-tier-architecture-aws-cf/assets/144098846/fb7b2a94-241a-47ad-8a41-11c95d263a7a)
+![Two-Tier-Architecture-aws-cfn](https://github.com/mathesh-me/two-tier-architecture-aws-cf/assets/144098846/a9ff29e1-b47c-447c-b53a-633db4453b8d)
 
 
 ## Prerequisites 📋
